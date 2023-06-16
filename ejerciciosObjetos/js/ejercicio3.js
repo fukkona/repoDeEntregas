@@ -8,4 +8,4 @@ const producto = {
     }
 }
 const precioNeto = producto.neto()
-console.log("el valor final del " + producto.objeto + " es " + precioNeto
+console.log("el valor final del " + producto.objeto + " es " + precioNeto)
